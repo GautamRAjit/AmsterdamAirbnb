@@ -10,11 +10,13 @@ This project aims to explore the factors that drive the prices of Airbnb listing
 - Does geography of the city have anything to do with the number of listings, i.e., are listings concentrated in downtown Amsterdam or are the outskirts of the city just as promising?
 - Is there any underlying linear relationship between the price of a listing and the number of bedrooms in the listing? 
 - Is there any segmentation possible based on the pricing of the listing? How many people can each segment accomodate?
-- What are the limitations of this dataset? What can be done to estimate a more accurate prediction of pricing ?
+- What are the limitations of this dataset? What can be done to estimate a more accurate prediction of pricing?
+- How does the pricing structure relate to the availability of the listings for long-term stays, like a month?
 
 ## Data
 
-- [Airbnb Amsterdam] (https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam/data).
+The data was retrieved from Kaggle.
+- [Airbnb Amsterdam](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam/data).
 
 ## Tools & Libraries Used
 
@@ -22,4 +24,8 @@ Python3 was used for the analysis. Jupyter Notebook was the IDE.
 
 - pandas (dataframe manipulation)
 - NumPy (for statistics)
-- This is a Tableau/ Python based project analyzing the factors that boost the popularity of Airbnbs in Amsterdam. The data was retrieved from Kaggle.
+- Tableau Public (for visualization)
+
+## Tableau Storyboard Link
+
+- [Airbnb Story](https://public.tableau.com/app/profile/gautam.radhakrishnan.ajit/viz/AmsterdamAirbnbProject/Story).
